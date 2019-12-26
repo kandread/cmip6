@@ -1,0 +1,14 @@
+name: cmip6
+channels:
+  - pyviz
+  - conda-forge
+dependencies:
+  - geoviews
+  - xesmf
+  - jupyterlab
+  - zarr
+  - dask
+  - gcsfs
+  - cftime
+  - nc-time-axis
+  - bottleneck
